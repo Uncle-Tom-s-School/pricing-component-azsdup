@@ -1,35 +1,29 @@
 [
-    {
-        "id": 1,
-        "name": "Basic",
-        "pricePerMonth": 0,
-        "features": [
-            "Basic document collaboration",
-            "2 GB storage",
-            "Great security and support"
-        ],
-        "highlighted": false
-    },
-    {
-        "id": 2,
-        "name": "Pro",
-        "pricePerMonth": 9.99,
-        "features": [
-            "All essential integrations",
-            "50 GB storage",
-            "More control and insights"
-        ],
-        "highlighted": true
-    },
-    {
-        "id": 3,
-        "name": "Ultimate",
-        "pricePerMonth": 19.99,
-        "features": [
-            "Robust work management",
-            "100 GB storage",
-            "VIP support"
-        ],
-        "highlighted": false
-    }
+  {
+    "id": 1,
+    "title": "Basic",
+    "price": 0,
+    "description": "Basic document collaboration",
+    "storage": "2 GB storage",
+    "support": "Great security and support",
+    "highlighted": false
+  },
+  {
+    "id": 2,
+    "title": "Pro",
+    "price": 9.99,
+    "description": "All essential integrations",
+    "storage": "50 GB storage",
+    "support": "More control and insights",
+    "highlighted": true
+  },
+  {
+    "id": 3,
+    "title": "Ultimate",
+    "price": 19.99,
+    "description": "Robust work management",
+    "storage": "100 GB storage",
+    "support": "VIP support",
+    "highlighted": false
+  }
 ]
